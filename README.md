@@ -40,7 +40,6 @@ OpenCore setup was made according to https://dortania.github.io/OpenCore-Install
 - EHCI/XHCI Hand-off
 - Set OS type to Other OS 
 - SATA Mode: AHCI
-- IGPU Memory: 64MB
 
 ### Working
 - [x] Audio
